@@ -19,7 +19,7 @@ const navItems = [
   { label: 'About', section: 'about' },
   { label: 'Vision', section: 'vision' },
   { label: 'Footprint', section: 'footprint' },
-  { label: 'Expertise', section: 'expertise' },
+  { label: 'Services', section: 'expertise' },
   { label: 'Clients', section: 'clients' },
   { label: 'Contact', section: 'contact' },
 ];
@@ -298,7 +298,7 @@ export default function RosemereWebsite() {
             animate={expertiseInView ? { opacity: 1, y: 0 } : {}}
             className="text-5xl sm:text-6xl font-bold text-white text-center mb-16"
           >
-            Our OpenText VIM Expertise
+            Our OpenText VIM Services
           </motion.h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
