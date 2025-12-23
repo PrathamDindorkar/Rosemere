@@ -200,7 +200,7 @@ export default function RosemereWebsite() {
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8 }}>
             <span className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-cyan-500/10 border border-cyan-500/30 text-cyan-400 text-[10px] font-black uppercase tracking-[0.3em] mb-8">
               <span className="w-1.5 h-1.5 rounded-full bg-cyan-400 animate-pulse" />
-              United Kingdom • Global Logistics Specialists
+              United Kingdom • Opentext VIM Specialists
             </span>
             <h1 className="text-6xl md:text-8xl font-bold tracking-tighter text-white mb-8 leading-[0.9]">
               Rosemere Limited <br /> 
